@@ -1,0 +1,28 @@
+body {
+    background-color: ivory;
+    color: black;
+    
+}
+
+h1 {
+    
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px gray solid;
+}
+#grid {
+    border: 1px solid gray;
+    display: grid;
+    grid-template-columns: 130px 1fr;
+}
+ol {
+    border-right: 1px solid gray;
+}
+#article {
+    padding: 20px;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+    color:yellowgreen
+}
